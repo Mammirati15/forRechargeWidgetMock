@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: 'Major League Baseball',
+      name: 'MLB Baseball',
       slug: 'major-baseball',
       category: 'Balls',
       image: '/images/p1.jpeg',
@@ -10,7 +10,7 @@ const data = {
       brand: 'Rawlings',
       rating: 4.7,
       numReviews: 10,
-      description: 'Baseball used in the MLB'
+      description: 'Baseball used in the MLB',
     },
     {
       name: 'NFL Football',
@@ -22,7 +22,7 @@ const data = {
       brand: 'Wilson',
       rating: 4.8,
       numReviews: 10,
-      description: 'Football used in the NFL'
+      description: 'Football used in the NFL',
     },
     {
       name: 'NBA Basketball',
@@ -34,7 +34,7 @@ const data = {
       brand: 'Spalding',
       rating: 4.4,
       numReviews: 10,
-      description: 'Basketball used in the NBA'
+      description: 'Basketball used in the NBA',
     },
     {
       name: 'MLS Soccer ball',
@@ -46,9 +46,9 @@ const data = {
       brand: 'Puma',
       rating: 4.1,
       numReviews: 10,
-      description: 'Soccerball used in the MLS'
-    }
-  ]
-}
+      description: 'Soccerball used in the MLS',
+    },
+  ],
+};
 
-export default data
+export default data;
