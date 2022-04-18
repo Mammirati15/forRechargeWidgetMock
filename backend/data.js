@@ -42,7 +42,7 @@ const data = {
       category: 'Balls',
       image: '/images/p4.jpeg',
       price: 35,
-      countInStock: 100,
+      countInStock: 0,
       brand: 'Puma',
       rating: 4.1,
       numReviews: 10,
